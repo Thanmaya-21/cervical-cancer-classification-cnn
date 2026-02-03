@@ -1,1 +1,2 @@
-This folder contains the MSc Data Science final project report submitted to Coventry University.
+This report documents the design, implementation, and evaluation of deep learning models used for cervical cancer image classification.
+
