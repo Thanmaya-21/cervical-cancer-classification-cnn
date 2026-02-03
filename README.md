@@ -1,4 +1,4 @@
-# Cervical Cancer Classification using CNN
+# Classification and identification of cervical cancer using CNN methods 
 
 ## Overview
 This project focuses on the classification and identification of cervical cancer using deep learning techniques applied to liquid-based cytology (LBC) Pap smear images. Cervical cancer is one of the leading causes of cancer-related deaths among women worldwide, and early, accurate detection plays a critical role in improving patient outcomes.
